@@ -1,0 +1,15 @@
+/Users/zeanrovinbalita/Documents/C#/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.deps.json
+/Users/zeanrovinbalita/Documents/C#/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.json
+/Users/zeanrovinbalita/Documents/C#/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.runtimeconfig.dev.json
+/Users/zeanrovinbalita/Documents/C#/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.dll
+/Users/zeanrovinbalita/Documents/C#/gradebook/src/GradeBook/bin/Debug/net5.0/ref/GradeBook.dll
+/Users/zeanrovinbalita/Documents/C#/gradebook/src/GradeBook/bin/Debug/net5.0/GradeBook.pdb
+/Users/zeanrovinbalita/Documents/C#/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csprojAssemblyReference.cache
+/Users/zeanrovinbalita/Documents/C#/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zeanrovinbalita/Documents/C#/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfoInputs.cache
+/Users/zeanrovinbalita/Documents/C#/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.AssemblyInfo.cs
+/Users/zeanrovinbalita/Documents/C#/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.csproj.CoreCompileInputs.cache
+/Users/zeanrovinbalita/Documents/C#/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.dll
+/Users/zeanrovinbalita/Documents/C#/gradebook/src/GradeBook/obj/Debug/net5.0/ref/GradeBook.dll
+/Users/zeanrovinbalita/Documents/C#/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.pdb
+/Users/zeanrovinbalita/Documents/C#/gradebook/src/GradeBook/obj/Debug/net5.0/GradeBook.genruntimeconfig.cache
